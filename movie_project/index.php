@@ -108,7 +108,7 @@
             <table class="table table-bordered">
                 <thead>
                     <tr>
-                        <th>Movie ID</th>
+                        <th>Actor ID</th>
                         <th>First Name</th>
                         <th>Last Name</th>
                     </tr>
